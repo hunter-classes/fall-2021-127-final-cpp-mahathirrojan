@@ -1,10 +1,10 @@
 * Fall 2021 - 127 - Final Exam - C++ 
 
-* Last Name: 
+* Last Name: Mahathir 
 
-* First Name: 
+* First Name: Rojan
 
-* GitHub username: 
+* GitHub username: @mahathirrojan
 
 * Notes:
 
